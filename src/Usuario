@@ -1,0 +1,12 @@
+import java.sql.*;
+
+public class Usuario{
+    private int id;
+    private String nombre;
+    private String apellido;
+    private String email;
+    private int dni;
+    private String contraseña;
+    private int id_domicilio;
+
+    }
