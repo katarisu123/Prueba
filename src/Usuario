@@ -72,8 +72,7 @@ public class Usuario{
         this.domicilio = domicilio;
     }
 
-    //Metodo
-    public void validContra(){
+    //*Metodo de validacion de contraseña
               // Specify the maximum number of letters in a password
               final int MAX=8;
                           
@@ -137,10 +136,7 @@ public class Usuario{
               System.out.println("Password should contain at lest 3 special characters");
                                   
                            }
-                           
+                         *//  
                       
                   }
               }
-    }
-
-}
